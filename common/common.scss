@@ -1,0 +1,10 @@
+.custom-usercard-link {
+  cursor: pointer;
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.custom-usercard-link:hover {
+  text-decoration: underline;
+}
